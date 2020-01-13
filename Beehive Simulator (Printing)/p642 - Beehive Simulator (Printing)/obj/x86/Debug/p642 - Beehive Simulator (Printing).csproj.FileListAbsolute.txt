@@ -1,0 +1,11 @@
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\bin\Debug\Chapter 12 Beehive Simulator.exe
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\bin\Debug\Chapter 12 Beehive Simulator.pdb
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\p642 - Beehive Simulator (Printing).csprojAssemblyReference.cache
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\BeehiveSimulator.BeeControl.resources
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\BeehiveSimulator.FieldForm.resources
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\BeehiveSimulator.Form1.resources
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\BeehiveSimulator.HiveForm.resources
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\BeehiveSimulator.Properties.Resources.resources
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\p642 - Beehive Simulator (Printing).csproj.GenerateResource.cache
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\Chapter 12 Beehive Simulator.exe
+D:\C#\HeadFirst_C#_Code\2nd_edition\Chapter 13\p642 - Beehive Simulator (Printing)\p642 - Beehive Simulator (Printing)\obj\x86\Debug\Chapter 12 Beehive Simulator.pdb
